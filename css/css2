@@ -1,0 +1,149 @@
+body {
+    overflow: hidden;
+}
+.container1 {
+    position: fixed;
+    background-color: rgb(235, 233, 233);
+    top: 5%;
+    left: 56.5%;
+    width: 20%;
+    height: 27%;
+    text-align: center;
+    border-radius: 25px;
+}
+.text1 {
+    text-align: center;
+    position: fixed;
+    top: 8.5%;
+    left: 57.5%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.text2 {
+    position: fixed;
+    top: 14%;
+    left: 57.5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: gray;
+}
+.button1 {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(2, 224, 43);
+    position:absolute;
+    top: 155px;
+    left: 57.5%;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.photo1 {
+    position: absolute;
+    top: 8%;
+    left: 44%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.container2 {
+    position: fixed;
+    background-color: rgb(235, 233, 233);
+    top: 35.5%;
+    left: 22%;
+    width: 20%;
+    height: 27%;
+    text-align: center;
+    border-radius: 25px;
+}
+.text3 {
+    text-align: center;
+    position: fixed;
+    top: 38%;
+    left: 35%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.text4 {
+    position: fixed;
+    top: 44%;
+    left: 26%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: gray;
+    text-align: right;
+}
+.button2 {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(2, 224, 43);
+    position:absolute;
+    top: 52.5%;
+    left: 30.5%;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
+.photo2 {
+    position: absolute;
+    top: 38%;
+    left: 44%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.photo3 {
+    position: absolute;
+    top: 67%;
+    left: 44%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.container3 {
+    position: fixed;
+    background-color: rgb(235, 233, 233);
+    top: 64.5%;
+    left: 56.5%;
+    width: 20%;
+    height: 27%;
+    text-align: center;
+    border-radius: 25px;
+}
+.text5 {
+    text-align: center;
+    position: fixed;
+    top: 67.5%;
+    left: 57.5%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.text6 {
+    position: fixed;
+    top: 73.5%;
+    left: 57.5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: gray;
+    text-align: left;
+}
+.button3 {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(2, 224, 43);
+    position:absolute;
+    top: 82.5%;
+    left: 57.5%;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+}
